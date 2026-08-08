@@ -108,4 +108,3 @@ The submission document is compiled as **`Jeevan_M.pdf`** in the repository root
 
 ---
 
-*Submitted by Jeevan M for Front End Development Internship Screening.*
